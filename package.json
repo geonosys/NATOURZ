@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for Natourz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geonosys/NATOURZ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geonosys/NATOURZ/issues"
+  },
+  "homepage": "https://github.com/geonosys/NATOURZ#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
